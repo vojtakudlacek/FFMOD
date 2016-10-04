@@ -1,0 +1,16 @@
+[
+{
+  "modid": "FFMOD",
+  "name": "Farmers an Food Mod",
+  "description": "Mod about plants and food",
+  "version": "",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["vojtakudlacek"],
+  "credits": "Visit our YT cahnnel: Spongeblockcz",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
