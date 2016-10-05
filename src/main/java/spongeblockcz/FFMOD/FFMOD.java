@@ -27,9 +27,14 @@ public class FFMOD
 	public static FFMOD instance;
     
     @EventHandler
-    public void init(FMLInitializationEvent event)
+    public void preInit(FMLPreInitializationEvent event)
     {
     	ModItems.init();
+    }
+    @EventHandler
+    public void init(FMLInitializationEvent event)
+    {
+    	
     }
 	
 	@EventHandler

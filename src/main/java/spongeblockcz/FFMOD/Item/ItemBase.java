@@ -17,7 +17,7 @@ public class ItemBase extends Item implements ItemModelProvider{
  
  @Override
  public void registerItemModel(Item item) {
- FFMOD.proxy.registerItemRenderer(this, 0, name);
+ FFMOD.proxy.registerItemRenderer(this, 1, name);
  }
  
  @Override
